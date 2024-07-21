@@ -2,9 +2,11 @@
 
 # The main author and repository is https://github.com/Rudrabha/Wav2Lip
 
-This repository contains a simplified implementation of the Wav2Lip project. The instructions below will guide you on how to set up and run the code.
+This repository contains a simplified implementation of the Wav2Lip project. The instructions below will guide you on how to set up and run the code [Google Colab](https://colab.research.google.com/drive/1hYdRqe03Rn1-fCla6q-bAJ8FQDu3ouxi).
 
- Requirements
+
+
+# Requirements
 
 - Python 3.x
 - Git
