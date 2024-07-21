@@ -1,3 +1,56 @@
+# Wav2Lip-Simplified 
+
+This repository contains a simplified implementation of the Wav2Lip project. The instructions below will guide you on how to set up and run the code.
+
+## Requirements
+
+- Python 3.x
+- Git
+- wget
+- ffmpeg
+- Additional Python packages (specified in the `requirements.txt` file)
+
+
+## Setup Instructions
+
+### Step 1: Clone the Repository and Install Dependencies
+
+```bash
+# Remove any existing sample data directory
+rm -rf /content/sample_data
+mkdir /content/sample_data
+
+# Clone the Wav2Lip repository
+git clone https://github.com/zabique/Wav2Lip
+
+# Change directory to Wav2Lip and install the required packages
+cd Wav2Lip
+pip install -r requirements.txt
+
+# Download the pretrained Wav2Lip model
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # **Wav2Lip**: *Accurately Lip-syncing Videos In The Wild*
 
 For commercial requests, please contact us at radrabha.m@research.iiit.ac.in or prajwal.k@research.iiit.ac.in. We have an HD model ready that can be used commercially.
